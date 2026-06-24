@@ -1,0 +1,221 @@
+row_index,ai_suggested_label,human_final_label,changed_flag,review_notes
+1,opinion_speculation,opinion_speculation,0,
+2,analysis_evidence,analysis_evidence,0,
+3,opinion_speculation,opinion_speculation,0,
+4,analysis_evidence,analysis_evidence,0,ambiguous: practical_experience vs analysis_evidence; overrode_to_analysis_evidence_from_practical_experience
+5,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+6,opinion_speculation,opinion_speculation,0,
+7,low_substance_reaction,low_substance_reaction,0,
+8,opinion_speculation,opinion_speculation,0,
+9,analysis_evidence,analysis_evidence,0,
+10,opinion_speculation,opinion_speculation,0,
+11,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+12,practical_experience,practical_experience,0,
+13,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+14,analysis_evidence,analysis_evidence,0,
+15,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+16,opinion_speculation,opinion_speculation,0,
+17,opinion_speculation,opinion_speculation,0,
+18,analysis_evidence,analysis_evidence,0,
+19,opinion_speculation,opinion_speculation,0,
+20,opinion_speculation,opinion_speculation,0,
+21,low_substance_reaction,low_substance_reaction,0,fallback
+22,opinion_speculation,opinion_speculation,0,
+23,opinion_speculation,opinion_speculation,0,ambiguous: opinion_speculation vs low_substance_reaction
+24,low_substance_reaction,low_substance_reaction,0,
+25,opinion_speculation,opinion_speculation,0,
+26,low_substance_reaction,low_substance_reaction,0,fallback
+27,opinion_speculation,opinion_speculation,0,
+28,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+29,opinion_speculation,opinion_speculation,0,ambiguous: opinion_speculation vs low_substance_reaction
+30,opinion_speculation,opinion_speculation,0,
+31,opinion_speculation,opinion_speculation,0,
+32,practical_experience,practical_experience,0,
+33,opinion_speculation,opinion_speculation,0,ambiguous: opinion_speculation vs low_substance_reaction
+34,practical_experience,practical_experience,0,ambiguous: practical_experience vs analysis_evidence
+35,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+36,opinion_speculation,opinion_speculation,0,
+37,opinion_speculation,opinion_speculation,0,
+38,opinion_speculation,opinion_speculation,0,
+39,opinion_speculation,opinion_speculation,0,
+40,practical_experience,practical_experience,0,
+41,opinion_speculation,opinion_speculation,0,
+42,opinion_speculation,opinion_speculation,0,
+43,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+44,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+45,opinion_speculation,opinion_speculation,0,
+46,opinion_speculation,opinion_speculation,0,
+47,opinion_speculation,opinion_speculation,0,
+48,opinion_speculation,opinion_speculation,0,
+49,opinion_speculation,opinion_speculation,0,
+50,analysis_evidence,analysis_evidence,0,
+51,opinion_speculation,opinion_speculation,0,
+52,opinion_speculation,opinion_speculation,0,
+53,low_substance_reaction,low_substance_reaction,0,ambiguous: reaction+reason/opinion
+54,opinion_speculation,opinion_speculation,0,
+55,opinion_speculation,opinion_speculation,0,
+56,opinion_speculation,opinion_speculation,0,
+57,opinion_speculation,opinion_speculation,0,ambiguous: opinion_speculation vs low_substance_reaction
+58,opinion_speculation,opinion_speculation,0,
+59,opinion_speculation,opinion_speculation,0,
+60,practical_experience,practical_experience,0,
+61,low_substance_reaction,low_substance_reaction,0,
+62,opinion_speculation,opinion_speculation,0,
+63,low_substance_reaction,low_substance_reaction,0,fallback
+64,opinion_speculation,opinion_speculation,0,
+65,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+66,opinion_speculation,opinion_speculation,0,
+67,opinion_speculation,opinion_speculation,0,
+68,low_substance_reaction,low_substance_reaction,0,
+69,opinion_speculation,opinion_speculation,0,
+70,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+71,opinion_speculation,opinion_speculation,0,
+72,low_substance_reaction,low_substance_reaction,0,
+73,opinion_speculation,opinion_speculation,0,
+74,opinion_speculation,opinion_speculation,0,
+75,opinion_speculation,opinion_speculation,0,
+76,low_substance_reaction,low_substance_reaction,0,
+77,low_substance_reaction,low_substance_reaction,0,ambiguous: reaction+reason/opinion
+78,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+79,opinion_speculation,opinion_speculation,0,
+80,opinion_speculation,opinion_speculation,0,
+81,opinion_speculation,opinion_speculation,0,
+82,opinion_speculation,opinion_speculation,0,
+83,opinion_speculation,opinion_speculation,0,
+84,opinion_speculation,opinion_speculation,0,
+85,low_substance_reaction,low_substance_reaction,0,
+86,opinion_speculation,opinion_speculation,0,
+87,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+88,opinion_speculation,opinion_speculation,0,
+89,opinion_speculation,opinion_speculation,0,
+90,opinion_speculation,opinion_speculation,0,
+91,opinion_speculation,opinion_speculation,0,
+92,opinion_speculation,opinion_speculation,0,
+93,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+94,low_substance_reaction,low_substance_reaction,0,fallback
+95,low_substance_reaction,low_substance_reaction,0,
+96,analysis_evidence,analysis_evidence,0,ambiguous: practical_experience vs analysis_evidence; overrode_to_analysis_evidence_from_practical_experience
+97,opinion_speculation,opinion_speculation,0,
+98,opinion_speculation,opinion_speculation,0,
+99,opinion_speculation,opinion_speculation,0,
+100,opinion_speculation,opinion_speculation,0,
+101,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+102,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+103,opinion_speculation,opinion_speculation,0,
+104,opinion_speculation,opinion_speculation,0,
+105,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+106,low_substance_reaction,low_substance_reaction,0,
+107,opinion_speculation,opinion_speculation,0,
+108,opinion_speculation,opinion_speculation,0,
+109,analysis_evidence,analysis_evidence,0,
+110,opinion_speculation,opinion_speculation,0,
+111,analysis_evidence,analysis_evidence,0,
+112,opinion_speculation,opinion_speculation,0,
+113,opinion_speculation,opinion_speculation,0,
+114,opinion_speculation,opinion_speculation,0,
+115,opinion_speculation,opinion_speculation,0,
+116,opinion_speculation,opinion_speculation,0,
+117,analysis_evidence,analysis_evidence,0,
+118,opinion_speculation,opinion_speculation,0,
+119,opinion_speculation,opinion_speculation,0,ambiguous: opinion_speculation vs low_substance_reaction
+120,analysis_evidence,analysis_evidence,0,
+121,opinion_speculation,opinion_speculation,0,
+122,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+123,low_substance_reaction,low_substance_reaction,0,fallback
+124,opinion_speculation,opinion_speculation,0,ambiguous: opinion_speculation vs low_substance_reaction
+125,opinion_speculation,opinion_speculation,0,
+126,analysis_evidence,analysis_evidence,0,
+127,low_substance_reaction,low_substance_reaction,0,
+128,opinion_speculation,opinion_speculation,0,
+129,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+130,analysis_evidence,analysis_evidence,0,
+131,opinion_speculation,opinion_speculation,0,
+132,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+133,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+134,analysis_evidence,analysis_evidence,0,
+135,low_substance_reaction,low_substance_reaction,0,
+136,opinion_speculation,opinion_speculation,0,
+137,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+138,opinion_speculation,opinion_speculation,0,
+139,low_substance_reaction,low_substance_reaction,0,fallback
+140,opinion_speculation,opinion_speculation,0,
+141,opinion_speculation,opinion_speculation,0,
+142,analysis_evidence,analysis_evidence,0,overrode_to_analysis_evidence_from_opinion_speculation
+143,opinion_speculation,opinion_speculation,0,
+144,analysis_evidence,analysis_evidence,0,
+145,analysis_evidence,analysis_evidence,0,
+146,opinion_speculation,opinion_speculation,0,
+147,opinion_speculation,opinion_speculation,0,
+148,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+149,low_substance_reaction,low_substance_reaction,0,
+150,opinion_speculation,opinion_speculation,0,
+151,opinion_speculation,opinion_speculation,0,
+152,low_substance_reaction,low_substance_reaction,0,fallback
+153,opinion_speculation,opinion_speculation,0,
+154,opinion_speculation,opinion_speculation,0,
+155,opinion_speculation,opinion_speculation,0,
+156,opinion_speculation,opinion_speculation,0,
+157,opinion_speculation,opinion_speculation,0,
+158,analysis_evidence,analysis_evidence,0,overrode_to_analysis_evidence_from_opinion_speculation
+159,opinion_speculation,opinion_speculation,0,ambiguous: opinion_speculation vs low_substance_reaction
+160,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+161,opinion_speculation,opinion_speculation,0,
+162,opinion_speculation,opinion_speculation,0,
+163,opinion_speculation,opinion_speculation,0,
+164,opinion_speculation,opinion_speculation,0,
+165,opinion_speculation,opinion_speculation,0,
+166,low_substance_reaction,low_substance_reaction,0,fallback
+167,opinion_speculation,opinion_speculation,0,
+168,opinion_speculation,opinion_speculation,0,
+169,low_substance_reaction,low_substance_reaction,0,fallback
+170,opinion_speculation,opinion_speculation,0,
+171,opinion_speculation,opinion_speculation,0,
+172,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+173,analysis_evidence,analysis_evidence,0,
+174,opinion_speculation,opinion_speculation,0,
+175,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+176,opinion_speculation,opinion_speculation,0,
+177,analysis_evidence,analysis_evidence,0,
+178,opinion_speculation,opinion_speculation,0,
+179,opinion_speculation,opinion_speculation,0,
+180,opinion_speculation,opinion_speculation,0,
+181,opinion_speculation,opinion_speculation,0,
+182,opinion_speculation,opinion_speculation,0,
+183,opinion_speculation,opinion_speculation,0,
+184,opinion_speculation,opinion_speculation,0,
+185,opinion_speculation,opinion_speculation,0,
+186,low_substance_reaction,low_substance_reaction,0,fallback
+187,low_substance_reaction,low_substance_reaction,0,fallback
+188,opinion_speculation,opinion_speculation,0,
+189,analysis_evidence,analysis_evidence,0,
+190,analysis_evidence,analysis_evidence,0,ambiguous: analysis_evidence vs opinion_speculation
+191,opinion_speculation,opinion_speculation,0,
+192,opinion_speculation,opinion_speculation,0,
+193,opinion_speculation,opinion_speculation,0,
+194,low_substance_reaction,low_substance_reaction,0,ambiguous: reaction+reason/opinion
+195,analysis_evidence,analysis_evidence,0,
+196,opinion_speculation,opinion_speculation,0,
+197,opinion_speculation,opinion_speculation,0,
+198,opinion_speculation,opinion_speculation,0,
+199,opinion_speculation,opinion_speculation,0,
+200,opinion_speculation,opinion_speculation,0,
+201,practical_experience,practical_experience,0,ambiguous: practical_experience vs analysis_evidence
+202,opinion_speculation,opinion_speculation,0,
+203,opinion_speculation,opinion_speculation,0,
+204,opinion_speculation,opinion_speculation,0,
+205,analysis_evidence,analysis_evidence,0,
+206,opinion_speculation,opinion_speculation,0,
+207,practical_experience,practical_experience,0,ambiguous: practical_experience vs analysis_evidence
+208,opinion_speculation,opinion_speculation,0,
+209,analysis_evidence,analysis_evidence,0,
+210,analysis_evidence,analysis_evidence,0,
+211,opinion_speculation,opinion_speculation,0,
+212,analysis_evidence,analysis_evidence,0,
+213,opinion_speculation,opinion_speculation,0,
+214,opinion_speculation,opinion_speculation,0,
+215,opinion_speculation,opinion_speculation,0,ambiguous: opinion_speculation vs low_substance_reaction
+216,opinion_speculation,opinion_speculation,0,ambiguous: opinion_speculation vs low_substance_reaction
+217,opinion_speculation,opinion_speculation,0,
+218,opinion_speculation,opinion_speculation,0,
+219,opinion_speculation,opinion_speculation,0,
+220,opinion_speculation,opinion_speculation,0,
