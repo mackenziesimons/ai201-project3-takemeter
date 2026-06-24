@@ -1,4 +1,13 @@
 {
-  "status": "placeholder",
-  "note": "Replace this file with the exported evaluation_results.json from Colab."
+  "baseline_accuracy": 0.5758,
+  "finetuned_accuracy": 0.6061,
+  "improvement": 0.0303,
+  "test_set_size": 33,
+  "label_map": {
+    "opinion_speculation": 0,
+    "analysis_evidence": 1,
+    "low_substance_reaction": 2,
+    "practical_experience": 3
+  },
+  "model": "distilbert-base-uncased"
 }
