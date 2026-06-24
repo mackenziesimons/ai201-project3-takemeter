@@ -1,0 +1,4 @@
+id,text,label
+1,"Sample text goes here","neutral"
+2,"Another example to replace with real data","positive"
+3,"Third example to replace with real data","negative"
