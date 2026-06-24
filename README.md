@@ -2,6 +2,10 @@
 
 Repository for all Project 3 assets that live outside the notebook.
 
+## Loom Walkthrough
+
+https://www.loom.com/share/6e80c142e0df4e2096e1c09b294d3bb9
+
 ## Contents
 
 - `planning.md`: Project plan and milestones.
